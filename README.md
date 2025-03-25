@@ -1,7 +1,15 @@
 # doctor-assistant-chatbot-innovators18
 An AI powered chat bot that interacts with the doctor to minimize the time consumed for the history reading
-mmongo db comapass local data input
+mongo db comapass local data input
 database name - "doctors_db", collection name - "patients"
+
+
+
+
+
+
+
+
 [
   {
     "patient_id": 101,
